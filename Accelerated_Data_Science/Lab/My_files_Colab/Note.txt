@@ -1,0 +1,1 @@
+Adding 6th onwards all files of accelerated data science in colab till end made by me.
